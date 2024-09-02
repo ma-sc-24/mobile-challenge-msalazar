@@ -7,5 +7,4 @@ Technologies:
 
 Application preview
 
-Screenshot 2024-09-02 at 10.57.55 AM.png
-Screenshot 2024-09-02 at 10.58.08 AM.png
+https://github.com/ma-sc-24/mobile-challenge-msalazar/blob/main/Screenshot%202024-09-02%20at%2010.57.55%E2%80%AFAM.png

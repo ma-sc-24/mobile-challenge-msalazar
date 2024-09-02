@@ -1,0 +1,22 @@
+PODS:
+  - Apollo (0.53.0):
+    - Apollo/Core (= 0.53.0)
+  - Apollo/Core (0.53.0)
+  - Swinject (2.9.1)
+
+DEPENDENCIES:
+  - Apollo (~> 0.50)
+  - Swinject
+
+SPEC REPOS:
+  trunk:
+    - Apollo
+    - Swinject
+
+SPEC CHECKSUMS:
+  Apollo: 204819ea82022fbc59ad05056820df867f19bd02
+  Swinject: a827d508c6270da03ec74e558e728917a888fa9b
+
+PODFILE CHECKSUM: 348f55e0f43b790288c0b4d8e139ceddaeb5f4bb
+
+COCOAPODS: 1.15.2

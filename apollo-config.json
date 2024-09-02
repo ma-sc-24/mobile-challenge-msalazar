@@ -1,0 +1,11 @@
+{
+    "schemaPath": "./mobile-challenge-msalazar/schema.json"
+    "documents": "./GraphQL/Queries.graphql",
+    "generates": {
+        "/GraphQL/Generated/": {
+            "plugins": [
+                "swift"
+            ]
+        }
+    }
+}

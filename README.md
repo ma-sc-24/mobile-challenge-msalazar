@@ -1,1 +1,11 @@
 # mobile-challenge-msalazar
+
+Technologies:
+- SwiftUI 
+- Swift
+- GraphQL
+
+Application preview
+
+./mobile-challenge-msalazar/Screenshot 2024-09-02 at 10.57.55 AM.png
+./mobile-challenge-msalazar/Screenshot 2024-09-02 at 10.58.08 AM.png
